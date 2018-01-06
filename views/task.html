@@ -1,0 +1,25 @@
+<div class="productsWrapper">
+    <h1 class="heading"><span ng-hide="model.taskNumber > 0">TEST TASK</span></h1>
+
+    <div ng-repeat="product in model.products" class="product">
+        <img ng-src="img/phone.png" class="image"/>
+
+        <div class="properties">
+            <li class="property"><strong>OS:</strong> {{product.operatingSystem}}</li>
+            <li class="property"><strong>Price:</strong> {{product.price}}</li>
+            <li class="property"><strong>Size:</strong> {{product.size}}</li>
+            <li ng-repeat="(key, property) in product.properties" class="property"><strong>{{key | capitalize}}:</strong> {{property}}</li>
+        </div>
+
+
+        <div class="ratingWrapper">
+            <div class="rating" ng-if="!model.verify">
+                {{product.numberOfReviews}} ratings by our customers <br />
+                <img ng-src="{{product.ratingImage}}"/><br />
+                Rating: {{product.rating}}
+            </div>
+        </div>
+
+        <button type="button" ng-click="getScope().purchase(product)" class="btn btn-primary continueButton">Purchase</button>
+    </div>
+</div>

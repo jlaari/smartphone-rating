@@ -1,0 +1,342 @@
+[
+  {
+    "brand": "Sony",
+    "model": "Hyperion 1",
+    "dominated": true,
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "329 €",
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "8 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "Hyperion 3",
+    "dominated": true,
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "349 €",
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "24 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof, stainless steel"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "Vita X",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "299 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2600 mAh",
+      "camera": "13 megapixels",
+      "screen": "5,0\" Full HD",
+      "memory": "8 GB",
+      "navigation": "a-GPS",
+      "network": "4G: 150 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "Vita Y",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "329 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "16 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof, stainless steel"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "Vita Z",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "349 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2600 mAh",
+      "camera": "13 megapixels",
+      "screen": "5,0\" Full HD",
+      "memory": "24 GB",
+      "navigation": "a-GPS",
+      "network": "4G: 150 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof"
+    }
+  },
+  {
+    "brand": "LG",
+    "model": "Oval 3",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "329 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "8 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof, stainless steel"
+    }
+  },
+  {
+    "brand": "LG",
+    "model": "Oval 5",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "349 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "16 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof, stainless steel"
+    }
+  },
+  {
+    "brand": "LG",
+    "model": "Black C",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "299 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2600 mAh",
+      "camera": "13 megapixels",
+      "screen": "5,0\" Full HD",
+      "memory": "8 GB",
+      "navigation": "a-GPS",
+      "network": "4G: 150 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof"
+    }
+  },
+  {
+    "brand": "LG",
+    "model": "Black L",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "329 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "16 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof, stainless steel"
+    }
+  },
+  {
+    "brand": "LG",
+    "model": "Black X",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "349 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2600 mAh",
+      "camera": "13 megapixels",
+      "screen": "5,0\" Full HD",
+      "memory": "24 GB",
+      "navigation": "a-GPS",
+      "network": "4G: 150 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof"
+    }
+  },
+  {
+    "brand": "Huawei",
+    "model": "Z4",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "329 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "8 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof, stainless steel"
+    }
+  },
+  {
+    "brand": "Huawei",
+    "model": "Z6",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "349 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "24 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof"
+    }
+  },
+  {
+    "brand": "Huawei",
+    "model": "Lite X5",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "299 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2600 mAh",
+      "camera": "13 megapixels",
+      "screen": "5,0\" Full HD",
+      "memory": "8 GB",
+      "navigation": "a-GPS",
+      "network": "4G: 150 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof"
+    }
+  },
+  {
+    "brand": "Huawei",
+    "model": "Lite X6",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "329 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "16 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof, stainless steel"
+    }
+  },
+  {
+    "brand": "Huawei",
+    "model": "Lite X7",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "349 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2600 mAh",
+      "camera": "13 megapixels",
+      "screen": "5,0\" Full HD",
+      "memory": "24 GB",
+      "navigation": "a-GPS",
+      "network": "4G: 150 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof"
+    }
+  },
+  {
+    "brand": "Samsung",
+    "model": "Cosmos 4",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "329 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "8 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof, stainless steel"
+    }
+  },
+  {
+    "brand": "Samsung",
+    "model": "Cosmos 6",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "349 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "16 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof, stainless steel"
+    }
+  },
+  {
+    "brand": "Samsung",
+    "model": "Cosmos Lite",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "299 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2600 mAh",
+      "camera": "13 megapixels",
+      "screen": "5,0\" Full HD",
+      "memory": "8 GB",
+      "navigation": "a-GPS",
+      "network": "4G: 150 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof"
+    }
+  },
+  {
+    "brand": "Samsung",
+    "model": "Sharp X",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "329 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2300 mAh",
+      "camera": "12 megapixels",
+      "screen": "4,7″ Super HD ",
+      "memory": "16 GB",
+      "navigation": "GPS",
+      "network": "LTE 4G: 100 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof"
+    }
+  },
+  {
+    "brand": "Samsung",
+    "model": "Sharp Y",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "349 €",
+    "dominated": true,
+    "properties": {
+      "battery": "2600 mAh",
+      "camera": "13 megapixels",
+      "screen": "5,0\" Full HD",
+      "memory": "24 GB",
+      "navigation": "a-GPS",
+      "network": "4G: 150 Mbit/s / 50 Mbit/s",
+      "durability": "Waterproof, stainless steel"
+    }
+  }
+]

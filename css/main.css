@@ -1,0 +1,54 @@
+body {
+    margin-top: 0px;
+}
+.productsWrapper {
+    background-image: url("../img/template.png");
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    padding-top: 200px;
+    height: 1150px;
+}
+.heading {
+    text-align: center;
+    color: red;
+    height: 40px;
+}
+.product {
+    width: 300px;
+    float: left;
+    text-align: center;
+}
+.product .image {
+    width: 100px;
+    margin-bottom: 10px;
+}
+.product .property {
+    list-style-type: none;
+}
+.product .properties {
+    height: 210px;
+}
+.continueButton {
+    margin-top: 15px;
+}
+.ratingWrapper {
+    height: 65px;
+    margin-top: 25px;
+}
+.ratingWrapper .rating img {
+    margin-left: auto;
+    margin-right: auto;
+}
+.h2, h2 {
+    font-size: 25px;
+}
+.informativeText {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dbWrapper {
+    margin-top: 50px;
+}

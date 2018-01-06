@@ -1,0 +1,70 @@
+[
+    {
+    "brand": "Sony",
+    "model": "Hyperion 2",
+    "operatingSystem": "Android",
+    "size": "138 x 67 x 7 mm",
+    "price": "299 €",
+    "dominated": false,
+    "properties" : {
+        "battery": "2600 mAh",
+        "camera": "13 megapixels",
+        "screen": "5,0\" Full HD",
+        "memory": "16 GB",
+        "navigation": "a-GPS",
+        "network": "4G: 150 Mbit/s / 50 Mbit/s",
+        "durability": "Waterproof, stainless steel"
+    }
+    },
+    {
+        "brand": "LG",
+        "model": "Oval 4",
+        "operatingSystem": "Android",
+        "size": "138 x 67 x 7 mm",
+        "price": "299 €",
+        "dominated": false,
+        "properties" : {
+            "battery": "2600 mAh",
+            "camera": "13 megapixels",
+            "screen": "5,0\" Full HD",
+            "memory": "24 GB",
+            "navigation": "a-GPS",
+            "network": "4G: 150 Mbit/s / 50 Mbit/s",
+            "durability": "Waterproof"
+        }
+    },
+    {
+        "brand": "Huawei",
+        "model": "Z5",
+        "operatingSystem": "Android",
+        "size": "138 x 67 x 7 mm",
+        "price": "299 €",
+        "dominated": false,
+        "properties": {
+            "battery": "2600 mAh",
+            "camera": "13 megapixels",
+            "screen": "5,0\" Full HD",
+            "memory": "16 GB",
+            "navigation": "a-GPS",
+            "network": "4G: 150 Mbit/s / 50 Mbit/s",
+            "durability": "Waterproof, stainless steel"
+        }
+    },
+    {
+        "brand": "Samsung",
+        "model": "Cosmos 5",
+        "operatingSystem": "Android",
+        "size": "138 x 67 x 7 mm",
+        "price": "299 €",
+        "dominated": false,
+        "properties": {
+            "battery": "2600 mAh",
+            "camera": "13 megapixels",
+            "screen": "5,0\" Full HD",
+            "memory": "24 GB",
+            "navigation": "a-GPS",
+            "network": "4G: 150 Mbit/s / 50 Mbit/s",
+            "durability": "Waterproof"
+        }
+    }
+]
